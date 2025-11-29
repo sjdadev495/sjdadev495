@@ -1,9 +1,7 @@
-<![CDATA[<div align="center">
+<div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Full-Stack%20%26%20Systems%20Engineer&fontSize=36&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Building%20Distributed%20Systems%20%E2%80%A2%20Enterprise%20Platforms%20%E2%80%A2%20AI%20Solutions&descSize=14&descAlignY=55&descAlign=50"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Architecting+Enterprise+Microservices;Rust+%7C+TypeScript+%7C+Go+%7C+Python;From+Database+to+Infrastructure" alt="Typing SVG" /></a>
 
 </div>
@@ -238,4 +236,3 @@ Highlights:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=100&section=footer"/>
 
 </div>
-]]>
